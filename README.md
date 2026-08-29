@@ -7,7 +7,7 @@ This project analyzes the adoption, usage patterns, and growth of Artificial Int
 
 ## 🔗 Project Links
 - **Tableau Public Dashboard:** [View Dashboard](https://public.tableau.com/app/profile/rushi.kamble/viz/GlobalAIAdoptioninEducation_17880142469220/Dashboard1)
-- **Tableau Public Story:** [View Story](https://public.tableau.com/shared/XR6XNRZ4R)
+- **Tableau Public Story:** [View Story](https://public.tableau.com/authoring/GlobalAIAdoptioninEducation1/Dashboard2#2)
 
 ---
 
